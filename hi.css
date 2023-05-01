@@ -1,0 +1,19 @@
+.h1{
+	text-align: center;
+}
+
+
+.topnav{
+
+    text-decoration-color: white;
+	color: black;
+	padding: 10px 6px;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+    nav{
+	background-color: black;
+    color: white;
+
+}
